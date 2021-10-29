@@ -361,11 +361,6 @@ html {
   margin-left: 1rem;
 }
 
-.navbar:hover .nav {
-  color: #111;
-  transition: color 0.4s 0.2s;
-}
-
 /* .menu{
   height: 5rem;
   width: 4rem;
